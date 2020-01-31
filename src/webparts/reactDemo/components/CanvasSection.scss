@@ -1,0 +1,251 @@
+@import '~@microsoft/sp-office-ui-fabric-core/dist/sass/SPFabricCore.scss';
+
+.CanvasSection.CanvasSection-col {
+    &.CanvasSection-xl12 {
+        .OneColumnSection-1 {
+            @include ms-Grid-col;
+            @include ms-xl1;
+        }
+
+        .OneColumnSection-2 {
+            @include ms-Grid-col;
+            @include ms-xl2;
+        }
+
+        .OneColumnSection-3 {
+            @include ms-Grid-col;
+            @include ms-xl3;
+        }
+
+        .OneColumnSection-4 {
+            @include ms-Grid-col;
+            @include ms-xl4;
+        }
+
+        .OneColumnSection-5 {
+            @include ms-Grid-col;
+            @include ms-xl5;
+        }
+
+        .OneColumnSection-6 {
+            @include ms-Grid-col;
+            @include ms-xl6;
+        }
+
+        .OneColumnSection-7 {
+            @include ms-Grid-col;
+            @include ms-xl7;
+        }
+
+        .OneColumnSection-8 {
+            @include ms-Grid-col;
+            @include ms-xl8;
+        }
+
+        .OneColumnSection-9 {
+            @include ms-Grid-col;
+            @include ms-xl9;
+        }
+
+        .OneColumnSection-10 {
+            @include ms-Grid-col;
+            @include ms-xl10;
+        }
+
+        .OneColumnSection-11 {
+            @include ms-Grid-col;
+            @include ms-xl11;
+        }
+
+        .OneColumnSection-12 {
+            @include ms-Grid-col;
+            @include ms-xl12;
+        }
+    }
+
+    &.CanvasSection-xl6 {
+        .TwoColumnsSection-1 {
+            @include ms-Grid-col;
+            @include ms-xl1;
+        }
+
+        .TwoColumnsSection-2 {
+            @include ms-Grid-col;
+            @include ms-xl2;
+        }
+
+        .TwoColumnsSection-3 {
+            @include ms-Grid-col;
+            @include ms-xl3;
+        }
+
+        .TwoColumnsSection-4 {
+            @include ms-Grid-col;
+            @include ms-xl4;
+        }
+
+        .TwoColumnsSection-5 {
+            @include ms-Grid-col;
+            @include ms-xl5;
+        }
+
+        .TwoColumnsSection-6 {
+            @include ms-Grid-col;
+            @include ms-xl6;
+        }
+
+        .TwoColumnsSection-7 {
+            @include ms-Grid-col;
+            @include ms-xl7;
+        }
+
+        .TwoColumnsSection-8 {
+            @include ms-Grid-col;
+            @include ms-xl8;
+        }
+
+        .TwoColumnsSection-9 {
+            @include ms-Grid-col;
+            @include ms-xl9;
+        }
+
+        .TwoColumnsSection-10 {
+            @include ms-Grid-col;
+            @include ms-xl10;
+        }
+
+        .TwoColumnsSection-11 {
+            @include ms-Grid-col;
+            @include ms-xl11;
+        }
+
+        .TwoColumnsSection-12 {
+            @include ms-Grid-col;
+            @include ms-xl12;
+        }
+    }
+
+    &.CanvasSection-xl4 {
+        .OneThird-1, .ThreeColumnsSection-1 {
+            @include ms-Grid-col;
+            @include ms-xl1;
+        }
+
+        .OneThird-2, .ThreeColumnsSection-2 {
+            @include ms-Grid-col;
+            @include ms-xl2;
+        }
+
+        .OneThird-3, .ThreeColumnsSection-3 {
+            @include ms-Grid-col;
+            @include ms-xl3;
+        }
+
+        .OneThird-4, .ThreeColumnsSection-4 {
+            @include ms-Grid-col;
+            @include ms-xl4;
+        }
+
+        .OneThird-5, .ThreeColumnsSection-5 {
+            @include ms-Grid-col;
+            @include ms-xl5;
+        }
+
+        .OneThird-6, .ThreeColumnsSection-6 {
+            @include ms-Grid-col;
+            @include ms-xl6;
+        }
+
+        .OneThird-7, .ThreeColumnsSection-7 {
+            @include ms-Grid-col;
+            @include ms-xl7;
+        }
+
+        .OneThird-8, .ThreeColumnsSection-8 {
+            @include ms-Grid-col;
+            @include ms-xl8;
+        }
+
+        .OneThird-9, .ThreeColumnsSection-9 {
+            @include ms-Grid-col;
+            @include ms-xl9;
+        }
+
+        .OneThird-10, .ThreeColumnsSection-10 {
+            @include ms-Grid-col;
+            @include ms-xl10;
+        }
+
+        .OneThird-11, .ThreeColumnsSection-11 {
+            @include ms-Grid-col;
+            @include ms-xl11;
+        }
+
+        .OneThird-12, .ThreeColumnsSection-12 {
+            @include ms-Grid-col;
+            @include ms-xl12;
+        }
+    }
+
+    &.CanvasSection-xl8 {
+        .TwoThirds-1 {
+            @include ms-Grid-col;
+            @include ms-xl1;
+        }
+
+        .TwoThirds-2 {
+            @include ms-Grid-col;
+            @include ms-xl2;
+        }
+
+        .TwoThirds-3 {
+            @include ms-Grid-col;
+            @include ms-xl3;
+        }
+
+        .TwoThirds-4 {
+            @include ms-Grid-col;
+            @include ms-xl4;
+        }
+
+        .TwoThirds-5 {
+            @include ms-Grid-col;
+            @include ms-xl5;
+        }
+
+        .TwoThirds-6 {
+            @include ms-Grid-col;
+            @include ms-xl6;
+        }
+
+        .TwoThirds-7 {
+            @include ms-Grid-col;
+            @include ms-xl7;
+        }
+
+        .TwoThirds-8 {
+            @include ms-Grid-col;
+            @include ms-xl8;
+        }
+
+        .TwoThirds-9 {
+            @include ms-Grid-col;
+            @include ms-xl9;
+        }
+
+        .TwoThirds-10 {
+            @include ms-Grid-col;
+            @include ms-xl10;
+        }
+
+        .TwoThirds-11 {
+            @include ms-Grid-col;
+            @include ms-xl11;
+        }
+
+        .TwoThirds-12 {
+            @include ms-Grid-col;
+            @include ms-xl12;
+        }
+    }
+}
